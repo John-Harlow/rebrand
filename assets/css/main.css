@@ -3493,7 +3493,7 @@ input, select, textarea {
 		#main input[type="radio"]:checked + label:before {
 			background-color: #333F48;
 			border-color: #333F48;
-			color: #ffffff;
+			color: #333F48;
 		}
 
 		#main input[type="checkbox"]:focus + label:before,
@@ -3667,7 +3667,7 @@ input, select, textarea {
 		@media screen and (max-width: 360px) {
 
 			#main {
-				border-radius: 0;
+				border-radius: 1;
 			}
 
 				#main > .main {
