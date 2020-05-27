@@ -3337,10 +3337,11 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		background-color: #CC0000;
+		background-color: #FFFF;
 		color: #636363;
 		border-radius: 0.25em;
-		border-style: hidden solid solid;
+		border-style: solid;
+		border-color: #636363;
 	}
 
 		#main input, #main select, #main textarea {
