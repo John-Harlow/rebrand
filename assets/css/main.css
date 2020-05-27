@@ -120,7 +120,7 @@ input, select, textarea {
 /* Type */
 
 	body {
-		background-color: #C7C9C7;
+		background-color: #FFF;
 		color: rgba(255, 255, 255, 0.65);
 	}
 
@@ -3221,7 +3221,7 @@ input, select, textarea {
 		width: 64em;
 		max-width: calc(100% - 4em);
 		padding: 1em;
-		background-color: #4B9CD3;
+		background-color: #C7C9C7;
 		border-top-left-radius: 0.25em;
 		border-top-right-radius: 0.25em;
 		cursor: default;
