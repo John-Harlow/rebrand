@@ -303,19 +303,19 @@ input, select, textarea {
 	}
 
 	input, select, textarea {
-		color: #012169;
+		color: #333F48;
 	}
 
 	a:hover {
-		color: #012169;
+		color: #333F48;
 	}
 
 	strong, b {
-		color: #012169;
+		color: #333F48;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #012169;
+		color: #333F48;
 	}
 
 	blockquote {
