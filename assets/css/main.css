@@ -131,6 +131,7 @@ input, select, textarea {
 		font-size: 17pt;
 		font-weight: 300;
 		line-height: 1.65;
+		color: #012169;
 	}
 
 		@media screen and (max-width: 1680px) {
@@ -2667,7 +2668,7 @@ input, select, textarea {
 		header.major p {
 			font-size: 1.25em;
 			letter-spacing: -0.025em;
-			color: #012169;
+			
 		}
 
 		header.major.special {
@@ -2696,7 +2697,7 @@ input, select, textarea {
 			header.major p {
 				font-size: 1em;
 				letter-spacing: 0;
-				color: #012169;
+				
 			}
 
 				header.major p br {
