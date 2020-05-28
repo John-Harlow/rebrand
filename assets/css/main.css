@@ -303,15 +303,15 @@ input, select, textarea {
 	}
 
 	input, select, textarea {
-		color: #012169;
+		color: #333F48;
 	}
 
 	a:hover {
-		color: #012169;
+		color: #333F48;
 	}
 
 	strong, b {
-		color: #012169;
+		color: #333F48;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -2491,7 +2491,7 @@ input, select, textarea {
 	}
 
 	dl dt {
-		color: #012169;
+		color: #333F48;
 	}
 
 /* Actions */
@@ -3341,21 +3341,21 @@ input, select, textarea {
 
 	#main {
 		background-color: #FFF;
-		color: #012169;
+		color: #333F48;
 		border-radius: 0.25em;
 	
 	}
 
 		#main input, #main select, #main textarea {
-			color: #012169;
+			color: #333F48;
 		}
 
 		#main a:hover {
-			color: #012169;
+			color: #333F48;
 		}
 
 		#main strong, #main b {
-			color: #012169;
+			color: #333F48;
 		}
 
 		#main h1, #main h2, #main h3, #main h4, #main h5, #main h6 {
@@ -3386,7 +3386,7 @@ input, select, textarea {
 		#main .button {
 			background-color: transparent;
 			box-shadow: inset 0 0 0 1px #dddddd;
-			color: #012169 !important;
+			color: #333F48 !important;
 		}
 
 			#main input[type="submit"]:hover,
@@ -3474,13 +3474,13 @@ input, select, textarea {
 		}
 
 			#main select option {
-				color: #012169;
+				color: #333F48;
 				background: #ffffff;
 			}
 
 		#main input[type="checkbox"] + label,
 		#main input[type="radio"] + label {
-			color: #012169;
+			color: #333F48;
 		}
 
 			#main input[type="checkbox"] + label:before,
@@ -3548,7 +3548,7 @@ input, select, textarea {
 		}
 
 		#main dl dt {
-			color: #012169;
+			color: #333F48;
 		}
 
 		#main header.major h2:after {
@@ -3568,7 +3568,7 @@ input, select, textarea {
 			}
 
 		#main table th {
-			color: #012169;
+			color: #333F48;
 		}
 
 		#main table thead {
@@ -3700,7 +3700,7 @@ input, select, textarea {
 		padding: 5em 5em 3em 5em ;
 		width: calc(100% + 2em);
 		margin: 0 0 3em -2em;
-		color: #012169;
+		color: #333F48;
 	}
 
 		#footer > * {
